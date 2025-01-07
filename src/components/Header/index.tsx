@@ -37,16 +37,16 @@ const Header = () => {
   });
 
   const options = [
-    { label: "All Categories", value: "0" },
-    { label: "Desktop", value: "1" },
-    { label: "Laptop", value: "2" },
-    { label: "Monitor", value: "3" },
-    { label: "Phone", value: "4" },
-    { label: "Watch", value: "5" },
-    { label: "Mouse", value: "6" },
-    { label: "Tablet", value: "7" },
+    { label: "Todas as Categorias", value: "0" },
+    { label: "Desktop & PCs", value: "1" },
+    { label: "Laptops & Notebooks", value: "2" },
+    { label: "Monitores", value: "3" },
+    { label: "Celulares", value: "4" },
+    { label: "Smartwatches", value: "5" },
+    { label: "Mouses e Periféricos", value: "6" },
+    { label: "Tablets", value: "7" },
   ];
-
+  
   return (
     <header
       className={`fixed left-0 top-0 w-full z-9999 bg-white transition-all ease-in-out duration-300 ${
