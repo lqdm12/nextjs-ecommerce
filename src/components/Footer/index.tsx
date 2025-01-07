@@ -209,12 +209,12 @@ const Footer = () => {
               </li>
               <li>
                 <a className="ease-out duration-200 hover:text-blue" href="#">
-                  Login / Criar Conta
+                  Entrar ou Criar Conta 
                 </a>
               </li>
               <li>
                 <a className="ease-out duration-200 hover:text-blue" href="#">
-                  Carrinho
+                  Carrinho de Compras
                 </a>
               </li>
               <li>
@@ -224,7 +224,7 @@ const Footer = () => {
               </li>
               <li>
                 <a className="ease-out duration-200 hover:text-blue" href="#">
-                  Loja
+                  Minhas Compras
                 </a>
               </li>
             </ul>
@@ -243,22 +243,27 @@ const Footer = () => {
               </li>
               <li>
                 <a className="ease-out duration-200 hover:text-blue" href="#">
-                  Políticas de Devolução
+                  Política de Devoluções
                 </a>
               </li>
               <li>
                 <a className="ease-out duration-200 hover:text-blue" href="#">
-                  Termos de Uso
+                  Termos e Condições
                 </a>
               </li>
               <li>
                 <a className="ease-out duration-200 hover:text-blue" href="#">
-                  FAQ
+                  Entrega e Frete
                 </a>
               </li>
               <li>
                 <a className="ease-out duration-200 hover:text-blue" href="#">
-                  Contato
+                  Perguntas Frequentes (FAQ)
+                </a>
+              </li>
+              <li>
+                <a className="ease-out duration-200 hover:text-blue" href="#">
+                  Fale Conosco
                 </a>
               </li>
             </ul>
@@ -266,11 +271,11 @@ const Footer = () => {
 
           <div className="w-full sm:w-auto">
             <h2 className="mb-7.5 text-custom-1 font-medium text-dark lg:text-right">
-              Baixe Nosso Aplicativo
+                Baixe nosso aplicativo e aproveite descontos exclusivos!
             </h2>
 
             <p className="lg:text-right text-custom-sm mb-4">
-               Economize R$3 no primeiro pedido pelo app, exclusivo para novos usuários.
+                Economize R$3 no app! (apenas para novos usuários)
             </p>
 
             <ul className="flex flex-col lg:items-end gap-3">
