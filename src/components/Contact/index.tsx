@@ -91,7 +91,7 @@ const Contact = () => {
                 <div className="flex flex-col lg:flex-row gap-5 sm:gap-8 mb-5">
                   <div className="w-full">
                     <label htmlFor="firstName" className="block mb-2.5">
-                      Noome <span className="text-red">*</span>
+                      Nome <span className="text-red">*</span>
                     </label>
 
                     <input
