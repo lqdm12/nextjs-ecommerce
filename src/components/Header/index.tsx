@@ -145,10 +145,10 @@ const Header = () => {
 
               <div>
                 <span className="block text-2xs text-dark-4 uppercase">
-                  24/7 SUPPORT
+                  ATENDIMENTO 24/7
                 </span>
                 <p className="font-medium text-custom-sm text-dark">
-                  (+965) 7492-3477
+                  (+55) 92 98823-9631
                 </p>
               </div>
             </div>
