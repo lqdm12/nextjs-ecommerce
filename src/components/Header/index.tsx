@@ -145,7 +145,7 @@ const Header = () => {
 
               <div>
                 <span className="block text-2xs text-dark-4 uppercase">
-                  ATENDIMENTO 24/7
+                  SUPORTE 24/7
                 </span>
                 <p className="font-medium text-custom-sm text-dark">
                   (+55) 92 98823-9631
@@ -182,10 +182,10 @@ const Header = () => {
 
                   <div>
                     <span className="block text-2xs text-dark-4 uppercase">
-                      account
+                      Minha Conta
                     </span>
                     <p className="font-medium text-custom-sm text-dark">
-                      Sign In
+                      Entrar
                     </p>
                   </div>
                 </Link>
@@ -356,7 +356,7 @@ const Header = () => {
                         fill=""
                       />
                     </svg>
-                    Recently Viewed
+                    Produtos Visualizados Recentemente
                   </a>
                 </li>
 
@@ -378,7 +378,7 @@ const Header = () => {
                         fill=""
                       />
                     </svg>
-                    Wishlist
+                    Lista de Desejos
                   </Link>
                 </li>
               </ul>
