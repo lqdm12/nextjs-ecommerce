@@ -37,7 +37,7 @@ const Header = () => {
   });
 
   const options = [
-    { label: "Todas as Categorias", value: "0" },
+    { label: "Categorias", value: "0" },
     { label: "Desktop & PCs", value: "1" },
     { label: "Laptops & Notebooks", value: "2" },
     { label: "Monitores", value: "3" },
