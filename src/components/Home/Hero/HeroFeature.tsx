@@ -20,7 +20,7 @@ const featureData = [
   {
     img: "/images/icons/icon-04.svg",
     title: "Suporte 24/7",
-    description: "Assistência a qualquer hora e em qualquer lugar",
+    description: "Assistência a qualquer hora e lugar",
   },
 ];
 
