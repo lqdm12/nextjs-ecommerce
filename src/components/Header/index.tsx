@@ -182,7 +182,7 @@ const Header = () => {
 
                   <div>
                     <span className="block text-2xs text-dark-4 uppercase">
-                      Minha Conta
+                      Conta
                     </span>
                     <p className="font-medium text-custom-sm text-dark">
                       Entrar
