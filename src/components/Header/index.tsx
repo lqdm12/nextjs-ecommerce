@@ -37,7 +37,7 @@ const Header = () => {
   });
 
   const options = [
-    { label: "Categorias", value: "0" },
+    { label: "Todos", value: "0" },
     { label: "Desktop & PCs", value: "1" },
     { label: "Laptops & Notebooks", value: "2" },
     { label: "Monitores", value: "3" },
@@ -85,7 +85,7 @@ const Header = () => {
                       type="search"
                       name="search"
                       id="search"
-                      placeholder="Busque por categoria, marca ou produto"
+                      placeholder="Busque por categoria ou produto"
                       autoComplete="off"
                       className="custom-search w-full rounded-r-[5px] bg-gray-1 !border-l-0 border border-gray-3 py-2.5 pl-4 pr-10 outline-none ease-in duration-200"
                     />
@@ -233,10 +233,10 @@ const Header = () => {
 
                   <div>
                     <span className="block text-2xs text-dark-4 uppercase">
-                      cart
+                      Carrinho
                     </span>
                     <p className="font-medium text-custom-sm text-dark">
-                      ${totalPrice}
+                      R${totalPrice}
                     </p>
                   </div>
                 </button>
