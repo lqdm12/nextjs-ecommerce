@@ -4,23 +4,23 @@ import Image from "next/image";
 const featureData = [
   {
     img: "/images/icons/icon-01.svg",
-    title: "Free Shipping",
-    description: "For all orders $200",
+    title: "Frete Grátis",
+    description: "Em compras acima de R$ 200",
   },
   {
     img: "/images/icons/icon-02.svg",
-    title: "1 & 1 Returns",
-    description: "Cancellation after 1 day",
+    title: "Devoluções Simples",
+    description: "Cancelamento até 1 dia após compra",
   },
   {
     img: "/images/icons/icon-03.svg",
-    title: "100% Secure Payments",
-    description: "Gurantee secure payments",
+    title: "Pagamentos Seguros",
+    description: "Garantia de transações seguras",
   },
   {
     img: "/images/icons/icon-04.svg",
-    title: "24/7 Dedicated Support",
-    description: "Anywhere & anytime",
+    title: "Suporte 24/7",
+    description: "Assistência a qualquer hora e em qualquer lugar",
   },
 ];
 
