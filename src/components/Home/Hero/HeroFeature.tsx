@@ -5,7 +5,7 @@ const featureData = [
   {
     img: "/images/icons/icon-01.svg",
     title: "Frete Grátis",
-    description: "Em compras acima de R$ 200",
+    description: "Acima de R$ 200",
   },
   {
     img: "/images/icons/icon-02.svg",
