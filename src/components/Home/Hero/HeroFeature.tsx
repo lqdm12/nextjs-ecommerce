@@ -15,12 +15,12 @@ const featureData = [
   {
     img: "/images/icons/icon-03.svg",
     title: "Pagamentos Seguros",
-    description: "Garantia de transações seguras",
+    description: "Compra 100% protegida",
   },
   {
     img: "/images/icons/icon-04.svg",
     title: "Suporte 24/7",
-    description: "Sempre à disposição",
+    description: "Assistência a qualquer hora",
   },
 ];
 
